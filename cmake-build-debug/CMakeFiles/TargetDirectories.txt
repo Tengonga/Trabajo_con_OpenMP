@@ -1,3 +1,0 @@
-/home/tommy/Programacion/CURSOS/C/Trabajo_con_OpenMP/cmake-build-debug/CMakeFiles/Trabajo_con_OpenMP.dir
-/home/tommy/Programacion/CURSOS/C/Trabajo_con_OpenMP/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/tommy/Programacion/CURSOS/C/Trabajo_con_OpenMP/cmake-build-debug/CMakeFiles/rebuild_cache.dir
