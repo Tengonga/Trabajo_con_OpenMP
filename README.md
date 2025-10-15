@@ -1,5 +1,5 @@
-## Trabajo práctico 1: Paralelización con OpenMP
 # Computación Paralela (CPA)
+## Trabajo práctico 1: Paralelización con OpenMP
 ### Curso 2025/26
 
 ## Índice
