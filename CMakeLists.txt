@@ -8,4 +8,5 @@ add_executable(Trabajo_con_OpenMP
     src/jacobi.c
     src/sumafibonacci.c
         src/Pintegral.c
-        src/integral.c)
+        src/integral.c
+        src/imagenes.c)
